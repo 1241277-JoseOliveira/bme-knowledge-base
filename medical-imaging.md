@@ -1,0 +1,1 @@
+# Medical imaging refers to the techniques and processes used to create visual representations of the interior of the body for clinical analysis and medical treatment
