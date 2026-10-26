@@ -1,0 +1,1 @@
+# An Electrocardiogram (ECG) signal processing workflow involves cleaning raw electrical data from the heart, extracting key features, and analyzing the waveform to diagnose cardiac conditions.
